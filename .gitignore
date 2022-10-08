@@ -1,3 +1,6 @@
+# large files - unzip to access full data
+LoanStats_2019Q1.csv
+
 # config files
 config.py
 config.R
